@@ -10,19 +10,21 @@
 รองรับภาษาไทย แบบ UTF8
 สร้างโดย Android Studio 4.1.1
 
-จัดทำโดย ศิริวัฒน์ ชะนะคุณ
+# จัดทำโดย
+โปรแกรมเมอร์ ศิริวัฒน์ ชะนะคุณ
 เว็บไซด์ www.siriwat.info
 
-ตัวอย่างหน้าจอ
+# การติดตั้ง
+
+* พร้อม ไฟล์ SQL ตัวอย่าง Import ใช้ได้เลย
+* คัดลอกโฟล์เดอร์ android_API ไปรันใน PHP Webserver
+* แก้ไขการเชื่อต่อฐานข้อมูล ที่ connection.php
+* แก้ไขการเชื่อมต่อ URL ที่ไฟล์ Constant.jav 
+
+# ตัวอย่างหน้าจอ
+
 ![](screenshots/1.png?raw=true)
 ![](screenshots/2.png?raw=true)
 ![](screenshots/3.png?raw=true)
 ![](screenshots/4.png?raw=true)
 ![](screenshots/5.png?raw=true)
-![](screenshots/6.png?raw=true)
-
-การติดตั้ง
-* พร้อม ไฟล์ SQL ตัวอย่าง Import ใช้ได้เลย
-* คัดลอกโฟล์เดอร์ android_API ไปรันใน PHP Webserver
-* แก้ไขการเชื่อต่อฐานข้อมูล ที่ connection.php
-* แก้ไขการเชื่อมต่อ URL ที่ไฟล์ Constant.jav 
