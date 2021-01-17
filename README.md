@@ -3,7 +3,7 @@
 ตัวอย่าง Android App CRUD (เพิ่ม อ่าน แก้ไข ลบ) 
 
 ใช้ ดาต้าเบส (MySql Database)  
-ใช้  Volley Library สำหรับทำ CRUD 
+ใช้  Volley Library สำหรับติดต่อ API
 ใช้ รูปแบบมาตรฐาน  JSON ในการโอนถ่ายข้อมูล้างโดย
 ใช้ PHP สำหรับสร้าง API 
 รองรับ เครือข่าย Network. 
@@ -23,8 +23,5 @@
 
 # ตัวอย่างหน้าจอ
 
-![](screenshots/1.png?raw=true)
-![](screenshots/2.png?raw=true)
-![](screenshots/3.png?raw=true)
-![](screenshots/4.png?raw=true)
-![](screenshots/5.png?raw=true)
+![](screenshots/1.png)
+![](screenshots/2.png)
