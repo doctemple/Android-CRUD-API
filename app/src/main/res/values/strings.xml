@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">โปรแกรมเมอร์</string>
+    <string name="app_title">รายชื่อพนักงาน</string>
+
+    <string name="profile_add">เพิ่ม พนักงาน</string>
+    <string name="profile_edit">แก้ไข ข้อมูลพนักงาน</string>
+
+    <string name="profile_title">กรอกข้อมูล พนักงาน</string>
+    <string name="profile_uid">รหัสพนักงาน</string>
+    <string name="profile_name">ชื่อ</string>
+    <string name="profile_phone">เบอร์โทร</string>
+    <string name="profile_address">ที่อยู่</string>
+    <string name="profile_submit">เพิ่มข้อมูล</string>
+    <string name="profile_update">ปรับปรุงข้อมูล</string>
+
+    <string name="add_success">เพิ่มข้อมูลเรียบร้อย</string>
+    <string name="update_success">ปรับปรุงข้อมูลสำเร็จ</string>
+    <string name="add_fail">เพิ่มข้อมูล ล้มเหลว</string>
+    <string name="update_fail">ปรับปรุงข้อมูล ล้มเหลว</string>
+    <string name="read_fail">อ่านข้อมูล ผิดพลาด</string>
+    <string name="delete_confirm">ยืนยัน การลบข้อมูลนี้ ใช่ไหม ?</string>
+    <string name="delete_success">ลบข้อมูล สำเร็จ</string>
+    <string name="delete_fail">ลบข้อมูล ล้มเหลว</string>
+    <string name="not_empty">กรอกข้อมูล</string>
+    <string name="cancle">ยกเลิก</string>
+    <string name="ok">ตกลง</string>
+
+    <string name="view_data">ดูข้อมูลเพิ่มเติม</string>
+    <string name="edit_data">แก้ไขข้อมูล</string>
+    <string name="delete_data">ลบข้อมูล</string>
+    <string name="loading">โหลดข้อมูล</string>
+</resources>
